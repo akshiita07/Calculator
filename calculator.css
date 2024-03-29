@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: block;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 30px;
+    font-style: italic;
+    text-shadow: 2px 2px 9px #ff9f0c,-2px -2px 9px #ff9f0c;
+}
+p{
+    display: block;
+    text-align: center;
+    width: 300px;
+    margin: 10px auto;
+    margin-bottom: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 9px #ff9f0c,-2px -2px 9px #ff9f0c;
+}
+
+.cnt{
+    margin-top: 0;
+    width: 242px;
+    margin: 10px auto;
+    background-color: #000000;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    display: block;
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+
+.cnt input{
+    background: none;
+    outline: none;
+    border: none;
+    height: 58px;
+    background-color: #000000;
+    font-size: 45px;
+    text-align: end;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: #faf5f4;
+    width: 200px;
+    margin-top: 80px;
+}
+
+.button{
+    border-radius: 50%;
+    padding: 15px 20px;
+    margin: 2px 2px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    width: 50px;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #737373;
+}
+
+
+.top3{
+    background-color: #a5a5a5;
+   color: #0a0a0a;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.lastcolm{
+    background-color:#ff9f0c ;
+    color: #faf5f4;
+    font-size: 22px;
+}
+
+.lastcolm:hover{
+    background-color:#faf5f4 ;
+    color: #ff9f0c;
+
+}
+
+.row{
+margin: 5px 0px;
+}
+
+
+
+.zerobtn{
+    width: 110px;
+    border-radius: 30px;
+}
+
+.first3{
+
+    background-color: #333333;
+    color: #fcfcfc;
+}
